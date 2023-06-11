@@ -10,6 +10,7 @@ Auto-GPT plugin to search GetYourGuide.com
 
 Instructions from https://github.com/Significant-Gravitas/Auto-GPT-Plugin-Template
 
+
 1. **Clone or download the plugin repository:**
    Clone the plugin repository, or download the repository as a zip file.
   
