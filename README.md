@@ -1,7 +1,14 @@
 # GetYourGuide Auto-GPT Plugin
-Auto-GPT plugin to query getyourguide.com using https://github.com/Significant-Gravitas/Auto-GPT-Plugin-Template
+Auto-GPT plugin to search GetYourGuide.com
+
+## Key Features:
+- Allow Auto-GPT to search for things to do in a city with start and end dates
+- Provides availability, pricing, and reviews for each activity
+- Allows searching by pre-defined set of categories for specific inserests
 
 ### Plugin Installation Steps
+
+Instructions from https://github.com/Significant-Gravitas/Auto-GPT-Plugin-Template
 
 1. **Clone or download the plugin repository:**
    Clone the plugin repository, or download the repository as a zip file.
