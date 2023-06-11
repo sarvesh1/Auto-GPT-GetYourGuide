@@ -1,7 +1,5 @@
-# Auto-GPT-Plugin-Template
-A starting point for developing your own external plug-in for Auto-GPT
-
-# **If you want your plugin to live within the codebase, use the example in the [plugins repo](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) instead**
+# GetYourGuide Auto-GPT Plugin
+Auto-GPT plugin to query getyourguide.com using https://github.com/Significant-Gravitas/Auto-GPT-Plugin-Template
 
 ### Plugin Installation Steps
 
